@@ -3,6 +3,7 @@ package ex;
  * Date: 2016/12/12
  * Author: 103051089 林冠磊
  */
+import java.util.Scanner;
 public class ex01_103051089 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
